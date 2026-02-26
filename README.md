@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Malek! 👋
 
-<!--
-**MalekAlharbi/MalekAlharbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
+- 🏛️ **Computer Science Student** at Umm Al-Qura University (Class of 2026).
+- 🏆 Graduated with **First-Class Honors**.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Languages:** PHP, Python, JavaScript.
+- **Web:** Laravel, React.
+- **DevOps & Tools:** Docker, Git, Postman, Managing Linux Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+- Developing the **Mawsem** app (Laravel Backend & React Frontend).
+
+![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
