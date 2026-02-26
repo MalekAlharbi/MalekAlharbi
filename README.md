@@ -12,5 +12,5 @@
 ### 🎯 Current Focus
 - Developing the **Mawsem** app (Laravel Backend & React Frontend).
 
-![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+---
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,react,py,js,docker,linux,postman,git,github,vscode,tailwind)](https://skillicons.dev)
