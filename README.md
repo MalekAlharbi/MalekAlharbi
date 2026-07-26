@@ -7,10 +7,11 @@
 ### 🚀 Tech Stack
 - **Languages:** PHP, Python, JavaScript.
 - **Web:** Laravel, React.
-- **DevOps & Tools:** Docker, Git, Postman, Managing Linux Systems.
+- **DevOps & Tools:** Git, Postman, Managing Linux Systems.
+- **To Learn:** Docker.
 
 ### 🎯 Current Focus
 - Developing the **Mawsem** app (Laravel Backend & React Frontend).
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,react,py,js,docker,linux,postman,git,github,vscode,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,react,py,js,linux,postman,git,github,vscode,tailwind)](https://skillicons.dev)
